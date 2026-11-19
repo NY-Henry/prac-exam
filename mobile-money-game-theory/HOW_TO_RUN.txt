@@ -1,0 +1,15 @@
+STUDENT NAME: NYOMORE HENRY 
+REG No. 23/2/370/w/736
+
+MOBILE MONEY FEE COMPETITION
+Computational Game Theory and Economics | BSE 4204
+
+
+How to run
++++++++++++
+python app.py
+
+
+
+The app uses the Python standard library and needs no pip installs.
+If Tkinter fails to load, try py -m tkinter to check Tcl/Tk support.
